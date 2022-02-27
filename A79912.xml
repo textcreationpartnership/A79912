@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A single eye all light, no darkness; or light and darkness one: In which you have it purely discussed, 1. The original of darkness. 2. What darkness is. 3. Why it is called darkness. As also, what God is within, and what without; how he is said to be one, yet two; when two and not one, yet then one, and not two. Likewise a word from the Lord touching the onely resurrection of the body, in, from, and to the Lord. With a certain parcel of quaeries to be answered from Heaven or Hell, / This revealed in L.C. one of the Universality.</title>
+            <author>Claxton, Laurence, 1615-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79912</idno>
+            <idno type="STC">Wing C4584</idno>
+            <idno type="STC">Thomason E614_1</idno>
+            <idno type="STC">ESTC R206526</idno>
+            <idno type="EEBO-CITATION">99865667</idno>
+            <idno type="PROQUEST">99865667</idno>
+            <idno type="VID">117915</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117915)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E614[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A single eye all light, no darkness; or light and darkness one: In which you have it purely discussed, 1. The original of darkness. 2. What darkness is. 3. Why it is called darkness. As also, what God is within, and what without; how he is said to be one, yet two; when two and not one, yet then one, and not two. Likewise a word from the Lord touching the onely resurrection of the body, in, from, and to the Lord. With a certain parcel of quaeries to be answered from Heaven or Hell, / This revealed in L.C. one of the Universality.</title>
+                  <author>Claxton, Laurence, 1615-1667.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>in the yeer that the powers of Heaven and Earth was, is, and shall be shaken, yea damned, till they be no more for ever [1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>L.C. = Laurence Claxton.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotations on Thomason copy: "Octob: 4 1650"; a carat between 'London,' and 'in' in the imprint, with "by Gilles Calvert" appearing above it.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Light --  Religious aspects --  Christianity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117915:1" rendition="simple:additions"/>
+            <p>A SINGLE EYE All <hi>Light,</hi> no <hi>Darkneſs;</hi> or <hi>Light</hi> and <hi>Darkneſs</hi> One: <hi>In which you have it purely Diſcuſſed,</hi>
+            </p>
+            <list>
+               <item>1. The Original of <hi>Darkneſs.</hi>
+               </item>
+               <item>2. What <hi>Darkneſs</hi> is.</item>
+               <item>3. Why it is called <hi>Darkneſs.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>As alſo,</hi> What God is <hi>Within,</hi> and what <hi>Without;</hi> how he is ſaid to be <hi>One,</hi> yet <hi>Two;</hi> when <hi>Two</hi> and not <hi>One,</hi> yet then <hi>One,</hi> and not <hi>Two.</hi>
+            </p>
+            <p>Likewiſe <hi>A Word from the Lord touching the onely Reſurrection of the Body, In, From, and To the</hi> LORD.</p>
+            <p>With a certain parcel of <hi>Quaeries</hi> to be anſwered from Heaven or Hell,</p>
+            <p>
+               <hi>This Revealed in</hi> L. C. <hi>one of the</hi> UNIVERSALITY.</p>
+            <p>Imprinted at <hi>LONDON,</hi> in the Yeer that the POWERS of Heaven and Earth <hi>Was, Is,</hi> and <hi>Shall be</hi> Shaken, yea Damned, till they be no more for EVER.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:117915:2"/>
+            <lg>
+               <l>BEhold, the King of glory now is come</l>
+               <l>T'reduce God, and Devil to their Doom;</l>
+               <l>For both of them are ſervants unto Me</l>
+               <l>That lives, and rules in perfect Majeſty:</l>
+               <l>Though called God, yet that is not my Name,</l>
+               <l>True, I be both, yet am I not the ſame:</l>
+               <l>Therefore a wonder am I to you all,</l>
+               <l>So that to titul'd Gods ye pray and call.</l>
+               <l>Oh then my Creature, let me ſpeak to thee;</l>
+               <l>Thy Worſhip, and thy God, ſhall dy truly.</l>
+               <l>Why dote ye Worldlings? up and down being hurl'd,</l>
+               <l>As he is, ſo are we even in this World;</l>
+               <l>And ſo are all things perfect, juſt, and good;</l>
+               <l>Yea, all are ſav'd by's Croſs, his wounds, and blood.</l>
+               <l>Where elſe is heaven, but in our preſent peace</l>
+               <l>From him? or hell, but when that this doth ceaſe?</l>
+               <l>Fie then for ſhame, look not above the Skies</l>
+               <l>For God, or Heaven; for here your Treaſure lies</l>
+               <l>Even in theſe Forms, <hi>Eternal Will</hi> will reigne,</l>
+               <l>Through him are all things, onely One, not Twain:</l>
+               <l>Sure he's the Fountain from which every thing</l>
+               <l>Both good and ill (ſo term'd) appears to ſpring.</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto this <hi>Single Eye,</hi> though <hi>Adams</hi> two</l>
+               <l>Cannot perceive, to Such, to All</l>
+            </lg>
+            <closer>
+               <salute>Adieu.</salute>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:117915:2"/>
+            <p>
+               <seg rend="decorInit">H</seg>Aving experience that his Majeſty, the Being and Operation of all things, appeareth in and to the Creature under a two-fold Form or Vi<g ref="char:EOLhyphen"/>ſage, by which that becometh real with the Creature, which is but a ſhadow with this Infinite Being: So that from hence it ari<g ref="char:EOLhyphen"/>ſeth, the Creature ſuppoſeth God to be that which is not, and that not to be, which is God.</p>
+            <p>Therefore hath his Majeſty divulged his pleaſure, that there<g ref="char:EOLhyphen"/>by he may take occaſion to unfold himſelf in and to the Creature under ſuch a proſpect, that the Creature may know God, as he is known of God, that ſo from the clear appearance of God, the Creature may behold purely what God is, which as yet is manifeſt, the Creation in this Nation inhabiteth in no other Region then the Woman of Samaria: And therefore it is the cry of his Majeſty is not fulfilled and obeyed, but by Churches, Saints, and Devils oppoſed and contemned: So that rare it is to find the Creature that is awaked out of his deep ſleep, that hath ſhaked off the cover<g ref="char:EOLhyphen"/>ing, ſo that he can from the clear Appearance of God ſay, the vail is taken away, and that he believeth the Truth as it is in his Majeſty.</p>
+            <p>In anſwer to this, I have travelled from one end of England to another, and as yet could find very few that could define unto me the Object of their Worſhip, or give me a Character what that God is, ſo much profeſſed by them; yet notwithſtanding I could come into no City, Town, nor Village, but there I heard the name God under one Form or another, worſhipped that for God, which I had experience was no God: So that in the period of my Pilgri<g ref="char:EOLhyphen"/>mage, I concluded there was gods many, and lords many, although to me but one God: Therefore at my return, I was carried out by God to hold forth to the Creature, the God yeſterday, to day, and for ever.</p>
+            <pb facs="tcp:117915:3"/>
+            <p> To that end, in the peruſal of his Majeſties pleaſure, you may take notice what is intended, or rather, in the enſuing Treatiſe re<g ref="char:EOLhyphen"/>corded, having for the preſent but only preſented to you a Map, in which you may take a full view what that God is thou pretends to Worſhip, whether he be Infinite, or Finite; whether he be ſub<g ref="char:EOLhyphen"/>ject to paſſion and affection, whether he behold the actions of the creature as the Creature eſteem them, and whether he can be changed by thy prayers, ſo as to expiate a judgement, or produce a deliverance, yea whether he be all, and in all, or but all in part, that is to ſay, whether one act be good, another evil, one light, an<g ref="char:EOLhyphen"/>other darkneſs; and if ſo, reaſon from Scripture declareth, God is paſſionate, God is affectionate, and if either, then changeable.</p>
+            <p>But by forms and ſpiritual God like forms he is profeſſed, and ſo worſhipped as a God that beholds evil and good; ſo paſſionate with the one, and affectionate with the other, ſo that in concluſion they imagine him as themſelves, not infinite, but finite, therefore it is, one Act in God is conceived two in themſelves, to wit, one Act Adultry, another Honeſty; when if Reaſon were admitted, and thereby Scripture interpreted, then ſhould they obſerve in that Act they call Honeſty, to be Adultry, and that Act ſo called A<g ref="char:EOLhyphen"/>dultry, to have as much honeſty as the other, for with God they are but one, and that one Act holy, juſt, and good as God; This to me by Reaſon is confirmed, and by Scripture declared, <hi>That to the pure all things are pure:</hi> So that for my part I know nothing un<g ref="char:EOLhyphen"/>clean to me, no more then it is of it ſelf, and therefore what Act ſoever I do, is acted by that Majeſty in me, as in the enſuing Treatiſe will appear what Acts they are, the nature of Acting them; and in the period: how I eſteem them: So that I weigh not how I am judged, in that I judge not my ſelf. So to conclude, the cenſures of Scripture, Churches, Saints, and Devils, are no more to me than the cuting off of a Dogs neck.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117915:3"/>
+            <epigraph>
+               <bibl>ISAIAH 42. 16.</bibl>
+               <q>I will make Darkneſs Light hefore them.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He God of gods hath caſt me on this Subject, to the end he may take occaſion to unfold himſelf what he is in himſelf, and how he maketh out himſelf in his Ap<g ref="char:EOLhyphen"/>pearance to the creature.</p>
+            <p>To that end, be pleaſed to peruſe the precedent verſes, and you will find what occaſioned theſe terms in this Text; In brief, you may behold the Original thereof ariſe from the preſent ſtate of the Gentiles, they being then as it were Priſoners, and in the ſtate of darkneſs; So that in reference to their bondage, Chriſt called the Son of God was promiſed, to redeem them from the Region of Darkneſs; that notwithſtanding they had wor<g ref="char:EOLhyphen"/>ſhipped that for God which was no god, yet now is the time come, now is the day that God will plunder them of their Idols, that God will enlighten their dark underſtandings, as in my Text, <hi>God will make darkneſs light before them.</hi>
+            </p>
+            <p>Notwithſtanding it may be ſuppoſed by ſome, that the con<g ref="char:EOLhyphen"/>nexion hereof doth only concern the Gentiles, yet let me tell thee, I find that God is not ſo limitted in his pen, inke, and paper, but that he can and will make the darkneſs of the Jew light, as well as the Gentile; yea, the darkneſs of you as any other: for never was there more ſuperſtition, more darkneſs in the Churches than now, therefore never more need to have the light of God expel thoſe dark miſts that at this time is ſpread over all opinions in the Kingdom: So that now doth the time draw neer
+<pb n="2" facs="tcp:117915:4"/> that the ſayings in this Text ſhall appear in the unfoldings of the Spirit, <hi>I will make darkneſs light before them.</hi>
+            </p>
+            <p>Being now arived at the wiſhed Haven, all the difficulty will be how to unload the Veſſel fraughted with ſuch hidden pearls, how to make merchandiſe of them, how to unfold this Subject to your capacity, how to give you the mind of God, in ſuch terms as God appears in you.</p>
+            <p>And that the more, I find the unfoldings of God in this, ſeem to appear contrary to moſt that is quoted in the Hiſtory; <hi>I will make darkneſs light;</hi> How is it poſſible, when there is no com<g ref="char:EOLhyphen"/>munion, no correſpondency but enmity? Yea, ſo great, that they cannot dwell in one houſe, lodge in one bed, but devour one ano<g ref="char:EOLhyphen"/>ther; for where darkneſs is, light is not, and where light ap<g ref="char:EOLhyphen"/>peareth, darkneſs is gone; yet notwithſtanding you hear, <hi>he will make darkneſs light.</hi>
+            </p>
+            <p>So that the firſt thing I mind from hence is, <hi>That he will not take darkneſs away, and in the room thereof place light, but that which in Scripture is called darkneſs, and by the Creature be<g ref="char:EOLhyphen"/>lieved darkneſs, ſhall be made light.</hi>
+            </p>
+            <p>Secondly we ſhall enquire, <hi>Whether that in Scripture, or by the Creature entituled darkneſs, be darkneſs with God or no?</hi>
+            </p>
+            <p>To this end you may read Light and Darkneſs are both alike to God. So then it appeareth but a darkneſs in the Creatures ap<g ref="char:EOLhyphen"/>prehenſion, ſo but an imagined darkneſs; for ſaith the Text, <hi>God is light, and in him no darkneſs.</hi> So that you ſee, whatſoever or howſoever it is called darkneſs in Scripture, yet it is none with God Then</p>
+            <p>Thirdly, I ſhall ſearch, <hi>Whether that in Scripture or by the Creature called God, admit of any other Title but</hi> unus <hi>(to wit)</hi> One himſelf, <hi>and if I find there is but one Being, one God, and that all that is be light with God, then ſhall I not ceaſe till I find the Original of Darkneſs, what it is, and why it is called dark<g ref="char:EOLhyphen"/>neſs,</hi> &amp;c.</p>
+            <p>Firſt, I find in his Divine Being, in his Eſſence, there is but one God; the hiſtory declareth the ſame. <hi>I am what I am: I am the Lord, and there is none elſe: There is no other God beſide me:</hi> with varieties of Scriptures to this purpoſe. So then, it is
+<pb n="3" facs="tcp:117915:4"/> cleer by the Hiſtory, That the Being and Eſſence of God admits not of the plural but ſingular.</p>
+            <p>So that there is but one God, whoſe Name is <hi>Light,</hi> ſo called God; for, that which God is, is God <hi>(to wit)</hi> God is light, then that light is God; for what God ſaith he is, that is himſelf, but God ſaith, He is light, therefore Light is God; ſo from the Scripture where God ſaid <hi>Let there be light,</hi> it is no more then if he had ſaid, Let there be God, and there was God, for God is Light. For,</p>
+            <p>You have heard the Scripture holds forth but one God, which God is Light; yet the ſame Scripture holds forth not only light, but lights; as <hi>verſe</hi> 14. <hi>Let there be Lights, and that Lights in the Firmament of the Heaven:</hi> So that God made two great lights, that is to ſay, The light of the Sun, the light of the Moon, Stars, fire, and candle. From hence take notice, that though but one God, yet divers Lights, and that all made by God; for he that ſaid <hi>Let there be light,</hi> ſaid <hi>Let there be Lights;</hi> there<g ref="char:EOLhyphen"/>fore he is called <hi>The Father of Lights,</hi> &amp;c.</p>
+            <p>But then how ſhall we do with that place, <hi>For God is light,</hi> not lights; either he muſt be as well lights as light, or elſe, that all other lights but one hath a Being and Original beſides God.</p>
+            <p>And if it appear that all lights, or that which is called light, though the light of the candle, be made by God, then the light of the candle is the light of God; but if all that is called light, to wit, the light of the Sun, Moon, Stars, Fire, and Candle, have not their being in God, then not made by God; So it will follow, that there is not onely one, but two gods.</p>
+            <p>But the Scripture ſaith, That <hi>God made the Light,</hi> and <hi>God made the Lights:</hi> So that both light and lights were made by God, then had they their being in God; for all that he made were in him, of him, and to him, as well the Sun as the Moon, the Stars, the Fire, and the Candle, as any of them; So that in making of theſe, he made nothing but himſelf; for God is light, as well the one as the other.</p>
+            <p>But then, If God be light, then lights; ſo that we may as well ſay Gods, as God; a God of the Sun, another of the Moon; for in that God is light, he muſt as well be the light of the Moon, as
+<pb n="4" facs="tcp:117915:5"/> the light of the Sun, the light of the fire, the candle, as the ſtars.</p>
+            <p>Not denying but God is as well the light of the one, as the light of the other; yet notwithſtanding that, God is but one light, and although called lights by God, yet they are but one light in God; to that end he is called <hi>The Father of Lights,</hi> but one Father, though many lights. So that why they are but one light in God, or God one light, and yet by God called lights, are in reference to their diſtinct appearance in thoſe ſeveral bodies (to wit) the body of the Sun, the body of the Moon; that as you ſee notwithſtanding ſeveral beams from one Sun, yet in their riſe from the Sun, they were but one in the Sun; nay indeed, they were nothing but the Sun, but after they are iſſued out of the Sun, one this way, another that way from the Sun, then according to this divers appearance, it is no more called a Sun, but a Beam, not only Beam, but Beams, which when reduced to their being, they are no longer called a Beam, but a Sun.</p>
+            <p>So why they are called lights, and yet but one light with or in God, who is light, it is but according to its divers appearance, which in the being is but one appearance, becauſe he that is the being of the light, is the appearance of the light, in what kind or degree whatſoever.</p>
+            <p>So that now you may take notice, and in ſome meaſure behold what God is, and what is to be underſtood by thoſe terms, <hi>God is light, and light is God;</hi> which if it be that light is God, to wit, the light of the Sun, Moon, Stars, Fire, and Candle, which if the light appearing in theſe, and held forth by theſe, be the light of God, Why may not the whole Creation ſay with their brother <hi>Jacob, Surely God were in theſe, and we knew it not?</hi>
+            </p>
+            <p>But may be you will ſay, the light that is there recorded, is not to be underſtood the light of the Sun, Moon, &amp;c. but a light that is quoted in theſe ſeveral Scriptures, to wit, a divine and Spiritual light, by which a creature beholds and enjoy God.</p>
+            <p>However God that is light appeareth in you, diſcovering to you that the light in the creature is not the ſame light of the Sun, yet the appearance of light in me, ſheweth me (and that from Scripture declareth to me) that one is as much divine as the other; no more precious (ſimply in it ſelf) then the other: for
+<pb n="5" facs="tcp:117915:5"/> as you have heard, though Lights, yet but Light with God: ſo that all that is light, is nothing but God; for Light is Light, and God is light: this may be will in ſome meaſure be beleeved. But now to the matter in hand, <hi>I will make darkneſſe light, and crook<g ref="char:EOLhyphen"/>ed things ſtraight,</hi> &amp;c.</p>
+            <p>Whether it is intended the darkneſſe of the night to become the light of the day, or it is the Dark, as in ſeveral portions of Scripture is recorded: yea it is intended that you call the dark<g ref="char:EOLhyphen"/>neſſe in the Creature, which darkneſſe is ſin, hell, and miſery: this darkneſſe he will make Light, Heaven, and Felicity; for in God is no darkneſſe, ſin, nor miſery; yet this will he make Light. So that now I am come to the place where I told you I would ſhew you the riſe of Darkneſſe, what it is, and why it is called Darkneſſe.</p>
+            <p>To this end you ſhall find in Scripture a two-fold Power, to wit, more Powers than one, yet notwithſtanding there is no Power but of God, and the Powers that be, are ordained of God. From hence you may obſerve the connexion hereof run in the plural, not Power, but Powers; a Power of darkneſſe, a Power of light, a Power in the wicked, a Power in the Godly; yet you have held forth in the ſame Scripture but one God.</p>
+            <p>So then, as it hath been proved, and I beleeve by you all will be granted, that the Power of Light, Life, and Salvation, cometh from God; the Power that acteth in the Godly, hath its riſe from God; but then, What ſhall we ſay to the Power of dark<g ref="char:EOLhyphen"/>neſſe, that Power in the wicked? for in them is a great Power, as ſaith the Prophet, <hi>I have ſeen the wicked in great Power,</hi> (in<g ref="char:EOLhyphen"/>ſtance) the Power in <hi>Eſau,</hi> in <hi>Pharoah,</hi> the Power in <hi>Herod</hi> and <hi>Pilat,</hi> by which they crucified Chriſt, from whom came this Power? the Scripture ſaith, from above, (to wit) from God: yet this was the Power of darkneſſe, of ſin: was it not a ſinfull act to crucifie Chriſt? that I know you will all conclude it was a wicked act; and yet this act was according to the will of God, as ſaith the Hiſtory, <hi>By the Power of God the Kings of the earth ſtood up, and the Rulers were gathered together, againſt the Lord, and againſt his Chriſt.</hi> &amp;c. What had they Power from God to deſtroy the Son of God? was this the will of God? ſo ſaith the
+<pb n="6" facs="tcp:117915:6"/> Scripture, by the Power of God they gathered together: What to do? Nothing but what thy hand and thy Councel determined before to be done.</p>
+            <p>Well friends, conſider this Power in <hi>Pilate,</hi> was a dark, ſin<g ref="char:EOLhyphen"/>ful Power, yet it came from God; yea, it was the Power of God, as is recorded: <hi>I form light, I create darkneſſe, I form Peace, I create evil.</hi> So that let it be a Power, whatſoever, in whomſoe<g ref="char:EOLhyphen"/>ver, whether in Fleſh or Spirit, wicked or Godly, it is the Pow<g ref="char:EOLhyphen"/>er of God, yea, came from God. So that in time, he will make this Power of darkneſſe a Power of Light; that whereas you have called and condemned one Power for a dark ſinfull Power; you ſhall have it appear to you, as now it is to me, that it is a Power of Light; for you heard this Power came from God, this Power of darkneſſe: ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d is Light, and in him is no darkneſſe.</p>
+            <p>So that conſider, though two Powers, yet they have but one womb, one bi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o both Twins, both brethren, as <hi>Eſau</hi> and <hi>Iaakob,</hi> then if Tw<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, if bre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, then one Fleſh, one Nature, yea, of the ſelf ſame Nature of God, from whom they came; as well <hi>Eſau</hi> as <hi>Iaakob, Pharoah</hi> as <hi>Moſes, Pilate</hi> as <hi>Chriſt:</hi> I ſay, although theſe be di<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inct, in reference to their ſeveral operations, as two ſtreams runneth contrary ways, yet they are but of one Nature, and that from one Fountain: Herein it appeareth but a ſeeming oppoſition; inſtance the Tide, what ſtriving for Victo<g ref="char:EOLhyphen"/>ry; yet but one Water, yea and that from one Ocean. So is the caſe with theſe Powers, one oppoſite to the other, contending for Victory, till at laſt, one overcomes another, as the Tide the Stream.</p>
+            <p>Thus you may take notice from whence darkneſſe hath its riſe, only from God.</p>
+            <p>Secondly, What Darkneſſe is; nothing but light with God.</p>
+            <p>Thirdly, Why it is called Darkneſſe, is but only in reference to the Creatures apprehenſion, to its appearance; ſo nothing but imagined Darkneſſe: therefore his meaning is, that which ap<g ref="char:EOLhyphen"/>peareth now under the form of Darkneſſe, ſhall ere long appear in a Viſage of Light, as ſaith the Text, <hi>I will make darkneſſe light before them.</hi>
+            </p>
+            <pb n="7" facs="tcp:117915:6"/>
+            <p> Again, it may be granted by you, as it hath been by ſome, that the Power or Powers are of God; yea that Power by which <hi>Pharaoh</hi> perſecuted Iſrael; that Power by which <hi>Pilate</hi> crucified Chriſt, yet it will not be granted that God gave the Power ſo to do; neither was it the Power, but a corrupt thought, or ſinful imagination ariſing from the Devil, and their own wicked in<g ref="char:EOLhyphen"/>ventions.</p>
+            <p>
+               <hi>Anſwer.</hi> Being now ſurrounded with the black Regiment, whoſe Commander is the Devil, and the whole legion conſiſting of the imaginations of the whole Creation, I have no way to e<g ref="char:EOLhyphen"/>ſcape this Camp and bottomleſſe gulf, but by breaking through the Bulwark and ſtrong hold fortified againſt me.</p>
+            <p>So that being armed with a weapon of Majeſty, I doubt not but that God in me ſhall caſt down thoſe ſtrong holds and imagi<g ref="char:EOLhyphen"/>nations, yea every thing that exalteth it ſelf againſt the Power of the moſt high.</p>
+            <p>To that end attend the nature of your objection, the ſum there<g ref="char:EOLhyphen"/>of is to this effect, that a ſinful act, or an act that is ſinful, hath not its being in the Power of God, nor produced by the Power of God; no not that act of crucifying the Son of God, but from the Devil, and their ſinful imaginations.</p>
+            <p>If thou by whom the Objection was raiſed, didſt nakedly un<g ref="char:EOLhyphen"/>derſtand the truth therein contained, I ſhould not in the leaſt mo<g ref="char:EOLhyphen"/>leſt thee, but in that thou declareſt Truth not knowing it, I am engaged to unfold the ſame, that thou maiſt know it, for where<g ref="char:EOLhyphen"/>as thou ſayeſt a ſinful act is not produced by the Power of God, its Truth: for that which is not in the Power, cannot be acted by the Power: but an act that is ſinful is not in God, nor the Power of God, therefore hath not its being in God, nor acted by the Power of God, for God is light, and in him no darkneſſe: but ſin is darkneſſe, therefore ſin is not in God.</p>
+            <p>So that yet, notwithſtanding that, I muſt tell you as before I have related, that as all Powers are of God, ſo all acts, of what nature ſoever are produced by this Power, yea this Power of God: ſo that all thoſe acts ariſing from the Power, are as Pure as the Power, and the Power as Pure as God.</p>
+            <p>So from hence it comes, there is no act whatſoever, that is im<g ref="char:EOLhyphen"/>pure
+<pb n="8" facs="tcp:117915:7"/> in God, or ſinful with or before God.</p>
+            <p>Yet ſay you, there is a ſinful act, or acts that are ſinful; ſo that if all that is an act be produced by the Power of God, then why n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the act that is ſinful ariſe from the ſame Power, ſo ſinful in and with God.</p>
+            <p>As I have ſaid, ſo I ſay again, that thoſe acts, or what act ſoever, ſo far as by thee is eſteemed or imagined to be ſinfull, is not in God, nor from God, yet ſtill, as I ſaid, all acts that be are from God, yea as pure as God.</p>
+            <p>And yet, notwithſtanding that act, or ſo much of the act that thou apprehendeſt ſin is not in God, nor ſimply in thy ſelf: for indeed ſin hath its conception only in the imagination; there<g ref="char:EOLhyphen"/>fore; ſo long as the act was in God, or nakedly produced by God, it was as holy as God: but after there is an appearance in thee, or apprehenſion to thee, that this act is good, and that act is evil, then haſt thou with <hi>Adam</hi> eat of the forbidden Tree, of the Tree of knowledge of good and evil, then haſt thou taſted of that fruit, which is not in God; for ſaith the Text, <hi>Out of the mouth of the moſt High proceedeth not evil, and good:</hi> good but not e<g ref="char:EOLhyphen"/>vil; for God is good, and good is God: therefore it was he made all things good: yea that which by you is imagined evil, he made good: ſo that thou apprehending that from God which is not in God doth of all his Creatures moſt abuſe God, in making God the author of that which is not in God, (to wit) Sin. But to the matter in hand, Thou haſt heard all acts that are, had their being and birth from God, yea acted by God, to be plain thoſe acts by thee called Swearing, Drunkeneſſe, Adultery, and Theft, &amp;c. Theſe acts ſimply as acts, were produced by the Power of God, yea, perfected by the Wiſdom of God.</p>
+            <p>What ſaid I, a Swearer, a Drunkard, an Adulterer, a Theef, had theſe the power and wiſdom of God, to Swear, Drink, Whore, and Steal? O dangerous Tenent! O blaſphemy of the higheſt nature! what make God the author of Sin? ſo a ſinful God! Well Friends, although the appearance of God in me be as terrible to you, as it were to <hi>Moſes</hi> in the mount, yet notwith<g ref="char:EOLhyphen"/>ſtanding, that what I have ſeen and heard, I do not in the leaſt tremble, but rejoyce, that I have this opportunity to declare it
+<pb n="9" facs="tcp:117915:7"/> unto you; however it may be received by you.</p>
+            <p>To that end conſider what I ſaid thoſe acts called Swearing, Drunkenneſſe, Adultery and Theft, thoſe acts, ſimply as acts, not as they are called (and by thee imagined) Drunkenneſſe, Adul<g ref="char:EOLhyphen"/>tery and Theft, that is in and from thy imagination; for there is no ſuch act as Drunkenneſſe, Adultery, and Theft in God; though by his Power and Wiſdom thou executeſt this act and that act, yet that appearance by which thou apprehendeſt and eſteemeſt them to be acts of ſin, that eſteemation was not in God, though from God.</p>
+            <p>For indeed, it is but imagination, which is not, yea nothing in this, infinite being; for as I ſaid before, ſo I ſay again, the very ti<g ref="char:EOLhyphen"/>tle Sin, it is only a name without ſubſtance, hath no being in God, nor in the Creature, but only by imagination; and therefore it is ſaid, <hi>the imaginations of your hearts are only evil continually.</hi> It is not the body, nor the life, but the imagination only, and that not at a time, or times, but continually. Herein ſin admitting of no form in it ſelf, is created a form in the eſtimation of the Creature; ſo that which is not to God, is found to be in a ſome<g ref="char:EOLhyphen"/>thing creature; as you have it related, <hi>One man eſteem<g ref="char:EOLhyphen"/>eth one day above another, another eſteemeth every day alike:</hi> what to one is pure, to another is impure; herein it ap<g ref="char:EOLhyphen"/>peareth but a bare eſtimation.</p>
+            <p>To this end (ſaith <hi>Paul) I know and am perſwaded, by the Lord Ieſus, that there is nothing unclean of it ſelf, but to him that eſteemeth any thing to be unclean, to him it is unclean.</hi>
+            </p>
+            <p>So that the extent thereof is in reference to all things, as well as meats and drinks; let it be what act ſoever. Conſider what act ſoever, yea though it be the act of Swearing, Drunkenneſſe, Adultery and Theft; yet theſe acts ſimply, yea nakedly, as acts are nothing diſtinct from the act of Prayer and Prayſes. Why doſt thou wonder? why art thou angry? they are all one in them<g ref="char:EOLhyphen"/>ſelves; no more holyneſſe, no more puritie in one then the other.</p>
+            <p>But once the Creature eſteemeth one act Adultery, the other honeſty, the one pure, the other impure; yet to that man that ſo eſteemeth one act unclean, to him it is unclean: (as ſaith the
+<pb n="10" facs="tcp:117915:8"/> Hiſtory) there is nothing unclean of it ſelf, [but] but but to him that eſteemeth it unclean: yea again and again it is record<g ref="char:EOLhyphen"/>ed that to the pure all things, yea all things are pure, but to the defiled, all things are defiled: yea the Prayer and Prayſes of the wicked are defiled, as ſaith the Hiſtory, <hi>The Prayers of the wick<g ref="char:EOLhyphen"/>ed are abomination to the Lord.</hi>
+            </p>
+            <p>Obſerve not the act nakedly, as the act, for we find the Pray<g ref="char:EOLhyphen"/>er and Prayſes of ſome to be pure, though to others impure: im<g ref="char:EOLhyphen"/>pure to thoſe acting, in relation to the title his apprehenſion, his Conſcience in the improvement of them is defiled and condem<g ref="char:EOLhyphen"/>ned for a Swearer, a Drunkard, an Adulterer, and a theef.</p>
+            <p>When as a man in purity in light, acts the ſame acts, in relation to the act, and not the title: this man [no this man] doth not ſwear, whore, nor ſteal: ſo that for want of this light, of this ſingle pure eye, there appeareth Devil and God, Hell and Hea<g ref="char:EOLhyphen"/>ven, Sin and holyneſſe, Damnation and Salvation; only, yea only from the eſteemation and dark apprehenſion of the Crea<g ref="char:EOLhyphen"/>ture.</p>
+            <p>
+               <hi>I will make darkneſſe light, rough ways ſmooth;</hi> not half light and half darkneſſe, not part rough and part ſmooth; but as it is ſaid, <hi>Thou art all fair my Love, there is no ſpot in thee.</hi> Obſerve, all fair my Love; in thee only is beauty and purity, without de<g ref="char:EOLhyphen"/>filement: my love my dove is but one, thou one, not two, but only one, my love: Love is God, and God is Love; ſo all pure, all, light, no ſpot in thee.</p>
+            <p>So that conſider what act ſoever is done by thee, in light and love, is light, and lovely; though it be that act called Adultery, in darkneſſe, it is ſo; but in light, honeſty, in that light loveth it ſelfe, ſo cannot defile it ſelf: for love in light is ſo pure, that a whore it cannot indure, but enſtranges it ſelf from darkneſſe from whence whoredom has its firſt original. Light is ſo pure, that it will not lodge with two; but treads the ſteps of the Apoſtle, ſaying, <hi>Let every man have his own wife:</hi> when as darkneſſe is not aſhamed to ly with his neighbours wife: for in light I declare that whoredom is the fruits of darkneſſe; therefore no compa<g ref="char:EOLhyphen"/>nion for light, who ſcornes the ſociety of a whore indeed. Light is like <hi>Suſanna,</hi> that had rather dy, then be deſiled with harlots.
+<pb n="11" facs="tcp:117915:8"/> Yea, innocent <hi>Suſanna,</hi> uncorrupted Light, muſt be accuſed, ar<g ref="char:EOLhyphen"/>raigned and condemned, for that her accuſers are guilty of: Yet fear not <hi>Suſanna,</hi> thou ſhalt be vindicated, and thy accuſers con<g ref="char:EOLhyphen"/>demned.</p>
+            <p>So that this is my Majeſties pleaſure to declare, again and a<g ref="char:EOLhyphen"/>gain, that what acts ſoever is done by thee, according as thou eſteemeſt it, yea according as thou beleeveſt it, ſo be it done unto thee; that is to ſay, if thou haſt committed thoſe acts in Scripture recorded for ſwearing, drunkenneſs, adultery and theft; and ſo acting apprehendeſt them, let me deal plainly with thee; to thee it is Sin: and for ſo ſinning, thy imagination will purſue thee, arraign thee, and condemne thee for a Swearer, an adulterer and a theef.</p>
+            <p>When as on the contrary, thou art perſwaded that thoſe titles in Scripture, and thy apprehenſion recorded, for ſwearing, adul<g ref="char:EOLhyphen"/>tery, and theft, be no ſuch acts with thee, but only titles with<g ref="char:EOLhyphen"/>out thee; neither doſt thou apprehend them any other, but pure acts, without title: then I declare, according to thy eſteema<g ref="char:EOLhyphen"/>tion ſo is the act to thee, and for ſo doing, thy imagination, will not, cannot condemne thee, but ſay with the Apoſtle, <hi>We know that an Idol is nothing:</hi> what thou eſteemeſt Idolatry, to us is none: So that whatſoever I act, though it be that act you call ſwearing, adultery, and theft, yet to me there is no ſuch title, but a pure act, for there is nothing that I do that is unclean to me, no more then it is unclean of it ſelf.</p>
+            <p>And yet notwithſtanding this, my priviledge doth not in the leaſt approbate thee, yea thee that apprehendeſt the title to ſweare, whore or ſteal, &amp;c. becauſe to thee it is unclean, there<g ref="char:EOLhyphen"/>fore not lawfull for thee: neither canſt thou upon the bare re<g ref="char:EOLhyphen"/>port hereof, ſay, Well, if it be but as man eſteems it, then I will eſteem it ſo too.</p>
+            <p>Alas friend, let me tell thee, whatever thy tongue ſaith, yet thy imagination in thee declares ſad things againſt thee, in that thou eſteemeſt them acts of ſin, thy imagination will torment thee for this ſin, in that thou condemneſt thy ſelf, thou art tormented in that condemnation; with endleſs miſery: ſo that I ſay, Happy is the man that condemns not himſelf in thoſe things he allow<g ref="char:EOLhyphen"/>eth of.</p>
+            <pb n="12" facs="tcp:117915:9"/>
+            <p> No matter what Scripture, Saints, or Churches ſay, if that within thee do not condemn thee, thou ſhalt not be condemn<g ref="char:EOLhyphen"/>ed; for ſaith the Hiſtory, <hi>Out of thine own mouth,</hi> not anothers, <hi>will I judge thee:</hi> Therefore, remember that if thou judge not thy ſelf, let thy life be what it will, yea act what thou canſt, yet if thou judge not thy ſelf, thou ſhalt not be judged; For, <hi>I came not into the World to condemn, but to ſave the World.</hi> But if the reproach and ſlander of Saints and Churches do cauſe thee to queſtion thy ſelf, then art thou ready to ſay within what they re<g ref="char:EOLhyphen"/>port without, I am guilty of what they accuſe me: So that true is the ſaying, <hi>O Adam,</hi> thy deſtruction is of thy ſelf.</p>
+            <p>But before I conclude touching how darkneſs is made light, ſin holineſs, and ſo all deformity converted into its own pure na<g ref="char:EOLhyphen"/>ture, it was my pleaſure to treat ſomthing concerning the nature of this loſs, that whether darkneſs in Scripture recorded, and by the creature believed, be caſt out as diſtinct from light, and ſo ſaid to be damned, in that it is not light, not pure, but defiled.</p>
+            <p>In anſwer to that, the Lord declares that thoſe filthy abomina<g ref="char:EOLhyphen"/>ble works of darkneſs (by thee ſo apprehended) ſhall be deſtroy<g ref="char:EOLhyphen"/>ed and damned; But how, or where ſhall they be damned? that is in the ſayings of this Text, <hi>I will make darkneſs light:</hi> Oh that this were purely minded, then thou wouldſt ſee that ſin muſt not be thrown out, but caſt within, there being in the Vat, it is dyed of the ſame colour of the liquor; as Saffron converts milk into its own colour, ſo doth the fountain of light convert ſin, hell, and devil into its own nature and light as it ſelf; <hi>I will make rough waies ſmooth:</hi> Now it is damm'd and ramm'd into its on<g ref="char:EOLhyphen"/>ly Center, there to dwell eternal in the boſom of its only Fa<g ref="char:EOLhyphen"/>ther: This, and only this, is the damnation ſo much terrifying the Creature in its dark apprehenſion, that it ſhall be robbed and carried it knows not whither, cryeth out I am damned, I am damned, being carried out of its former knowledge, now know<g ref="char:EOLhyphen"/>eth not where it is, therefore lamenting, <hi>Maſter, Save me, I periſh,</hi> periſhed in its own Apprehenſion, yet ſaved in the eſſen<g ref="char:EOLhyphen"/>tial. Thus much concerning <hi>I will lead the blind by a way that they know not, and in paths they have not known: I will make darkneſs light, crooked things ſtreight, &amp;c.</hi>
+            </p>
+            <pb n="13" facs="tcp:117915:9"/>
+            <p> A Word from the Lord touching Reſurrection, there being reports not a few that I ſhould deny the Reſurrection of that bo<g ref="char:EOLhyphen"/>dy conſiſting of Fleſh, Bloud and Bone. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, Reaſon would arraigne me for a mad man, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d de<g ref="char:EOLhyphen"/>clare me anti-Scripturiſt, in favouring <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Darkneſs, which if rightly underſtood, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Reſurrection of this Body: both which <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> body is made of, that is the life, perfection, and happin<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> body; but thy body conſiſting of fleſh and bone, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> duſt of the earth, therefore when thy body is reduced <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o its c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ter, then (and not till then) is thy body alive, perfected in its happineſs; now for thee to raiſe this body, it would declare thee a Tyrant; for as it is deſtructive for the Fowl to live in the wa<g ref="char:EOLhyphen"/>ter, or the Fiſh in the Firmament, ſo to raiſe thy body to a local place called Heaven, would to thy body become a Hell; for as the earth would become a Hell to the Spirit, ſo that place called heaven, would become a hell to the Body, for after laid in the grave, it is buried in its heaven, glory, and happineſs, where it ſhall rot and conſume into its own nature for ever and ever.</p>
+            <p>Yet not denying but that body quoted in the Hiſtory ſhall riſe, which body hath ſeveral denominations, as <hi>earthly, corru<g ref="char:EOLhyphen"/>ptible, diſhonorable, weak, vile, and natural body;</hi> all which doth but make one cleer proſp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct, in which you may take a full view of what that body is made of that ſhall riſe, whether a viſi<g ref="char:EOLhyphen"/>ble body conſiſting of fleſh and bone, or inviſible body, conſiſt<g ref="char:EOLhyphen"/>ing of the Senſitive within this body; To this end the Hiſtory ſpeaketh on this wiſe, <hi>That we our ſelves groan within our ſelves, waiting for the redemption,</hi> to wit, <hi>our Body.</hi>
+            </p>
+            <p>So that in light I declare, that the corrupt ſenſes muſt put on incorruption, thy mortal apprehenſion muſt put on immortality, that whereas before thou waſt alive to five, and dead to one, now thou ſhalt be dead to five, and alive to one, that lovely pure one who beholds nothing but purity, whereſoever it goeth, and what<g ref="char:EOLhyphen"/>ſoever it doth, all is ſweet and lovely; let it be under what title ſoever, thou art riſen from title to act, from act to power, from power to his name, and that only one name, pure and undefiled; ſo that now thou art of purer eys than to behold any iniquity, ſo
+<pb n="14" facs="tcp:117915:10"/> that Devil is God, Hell is Heaven, Sin Holineſs, Damnation Sal<g ref="char:EOLhyphen"/>vation, this and only this is the firſt Reſurrection.</p>
+            <p>Yet here is no lodging, no ſafe inhabiting, in that thou art yet on the borders of Aegypt, only with <hi>Moſes</hi> on Mount Hermon, only verbally, not practically, ſo ſhort of the ſecond Reſurrection which is the life and power what thou ſaw, for till thou be de<g ref="char:EOLhyphen"/>livered of that thou waſt riſen to, thou canſt not ſay, <hi>Death, where is thy ſting? Grave, where is thy victory?</hi>
+            </p>
+            <p>Wonder not at me, for without Act, without Birth, no pow<g ref="char:EOLhyphen"/>erful deliverance, not only the Talkers, but the Doers; not only your Spirit, but your Body muſt be a living and acceptable Sacrifice; therefore till acted that ſo called Sin, thou art not de<g ref="char:EOLhyphen"/>livered from the power of ſin, but ready upon all Alarums to tremble and fear the reproach of thy body.</p>
+            <p>Therefore my beloved ones, that ſuppoſeth your ſervice is per<g ref="char:EOLhyphen"/>fect Freedom, by having onely light into anothers life, know this, that if light without life, thy ſervice will be perfect bondage; and therefore it is when a creature is drawn forth to act in ano<g ref="char:EOLhyphen"/>thers life, inſteed of tryumphing over ſin, he will be conquered in ſin; ſo that I ſay, till fleſh be made Spirit, and Spirit fleſh, ſo not two, but one, thou art in perfect bondage: for without vail, I declare that whoſoever doth attempt to act from fleſh, in fleſh, to fleſh, hath, is, and will commit Adultry: but to bring this to a period, for my part, till I acted that, ſo called ſin, I could not pre<g ref="char:EOLhyphen"/>dominate over ſin; ſo that now whatſoever I act, is not in relati<g ref="char:EOLhyphen"/>on to the Title, to the Fleſh, but that Eternity in me; So that with me, all Creatures are but one creature, and this in my form, the Repreſentative of the whole Creation: So that ſee what I can, act what I will, all is but one moſt ſweet and lovely. There<g ref="char:EOLhyphen"/>fore my deer ones conſider, that without act, no life; without life, no perfection; and without perfection, no eternal peace and freedom indeed, in power, which is the everlaſting Majeſty, ruling, conquering, and damning all into its ſelf, without end, for ever.</p>
+            <div type="queries">
+               <pb n="15" facs="tcp:117915:10"/>
+               <head>The enſuing Queries.</head>
+               <head type="sub">What that God is<g ref="char:punc">▪</g> ſo often recorded in Scripture, and by the Creature beleeved.</head>
+               <p>
+                  <hi>Firſt,</hi> Whether he admit of a Corporeal Suſtance (to wit) fleſh, blood, and bones; and if ſo (as by ſome of the Creation is beleeved) then the Queſtion will be Where his habitation hath been, is and will be, to the end of the world? I ſay, if God admit of a corporal ſubſtance; whether then any other but a local plaee caen contain that ſubſtance, or that he can be omnipreſent in all places, and with all Creatures at one time, in that ſubſtance, &amp;c?</p>
+               <p>
+                  <hi>Secondly,</hi> Whether God admit of any other but a Spirit, ſo in<g ref="char:EOLhyphen"/>viſible? and if ſo, (as by others of his Creation beleeved) the Query is then, where its Region hath been, is, and will be? I ſay, if God admit of no Corporal ſubſtance, form, nor image, but on<g ref="char:EOLhyphen"/>ly a ſpirit, whether then any other but an inviſible habitation, an infinite boundleſſe region can contain an inviſible infinite bound<g ref="char:EOLhyphen"/>leſſe Spirit.</p>
+               <p>
+                  <hi>Thirdly,</hi> If God be a Spirit, then whether a Spirit can be con<g ref="char:EOLhyphen"/>fined from any thing? and if confined, then muſt we obſerve theſe two things,</p>
+               <list>
+                  <item>1. What he is confined from, or confined in?</item>
+                  <item>2. What it is that doth confine God?</item>
+               </list>
+               <p>
+                  <hi>Fourthly,</hi> If God be a Spirit, and cannot be confined, then whether God be not infinite and omni-preſent in all places, and in all things: as well Hell as Heaven, Devil as Angel, Sin as Ho<g ref="char:EOLhyphen"/>lineſſe, Darkneſſe as Light?</p>
+               <p>
+                  <hi>Fifthly,</hi> If God be infinite in all things: then whether all things are not finite in God? That if God be ſubject to nothing, then whether all things be not ſubjected to God, ſo as to do nothing without God, nor againſt God; but in the performance of the will of God, as well <hi>Eſau</hi> as <hi>Jacob, Pharoah</hi> as <hi>Moſes, Pilat</hi> as <hi>Chriſt;</hi> yea Sin, Devil, or any other inſtrument whatſoever?</p>
+               <p>
+                  <hi>Sixtly,</hi> Whether a creature living in God, ſo as to know God, as
+<pb n="16" facs="tcp:117915:11"/> he is known of God, be not infinite with and in God; and ſo all things finite unto him, as unto God; ſubject unto him, as unto God whether Devil, Hell, Sin, Death, or any other thing whatſoever?</p>
+               <p>
+                  <hi>Seventhly,</hi> If God be in all things, then in all men, the wick<g ref="char:EOLhyphen"/>ed as the godly, wherein then is the ſtate of the wicked worſe then the godly? yea if God be in both, why have they not both one title, but one wicked, another godly?</p>
+               <p>
+                  <hi>Eighthly,</hi> If God be in all things, then in all Creatures that hath life whatſoever, ſo that wherein is man better than theſe, or hath any preheminence above theſe? yet if he have, by whom is it given: and the reaſon of ſo being given?</p>
+               <p>
+                  <hi>Ninthly,</hi> If God be in all, the wicked as the godly; why is not the wicked ſaved with the godly? but if not ſaved, what is that in the wicked more then the godly, that is damned? with the place where, and the nature of that damnation.</p>
+               <p>
+                  <hi>Tenthly,</hi> If God be in all, why are not all things one in God? and if they be all comprehended as one in God; how commeth it they are two diſtinct from God, yea ſo titled from the Scripture? now if Scripture were indicted by God<g ref="char:punc">▪</g> the Queſtion wil be, why it ſpeaks not of things, as they are in God, but relates two diſtinct titles two oppoſites; the one for God, the other againſt God? and whe<g ref="char:EOLhyphen"/>ther that Scripture ſo contradictory be not the original or inſtru<g ref="char:EOLhyphen"/>mental cauſe by which the Creation becomes blinded, divided, yea deſtroyed; in worſhiping that for God, which in the Original is no God? I ſay, the Query will be, whether the contradiction in the Scripture, be not the contradictions in the Creation: and that ſo long as there is this Scripture, there will be Religions, not Religi<g ref="char:EOLhyphen"/>ous forms, not Spirit; war, not Peace; envy, not Love; the teachings of men, not the teaching of God: yea in concluſion there will be gods, and not God: no not that God that is all in all, <hi>Al<g ref="char:EOLhyphen"/>pha</hi> and <hi>Omega;</hi> the God yeſterday and to day, and for ever.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
